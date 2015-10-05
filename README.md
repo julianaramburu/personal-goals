@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-I was inspired by [Una Kravets](www.twitter.com/una) to open source my personal goals, as a good way to track down what I've been learning, what I wanna learn next and also for accesibility across computers I use! if you wanna know more about it you can read it [here](http://una.im/personal-goals-guide/)
+I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my personal goals, as a good way to track down what I've been learning, what I wanna learn next and also for accesibility across computers I use! if you wanna know more about it you can read it [here](http://una.im/personal-goals-guide/)
 
 
 # Overarching Goals for 2015:
@@ -24,14 +24,14 @@ I was inspired by [Una Kravets](www.twitter.com/una) to open source my personal 
 - [ ] Contribute helping others with their code.
 - [ ] Continue learning about JS
 - [ ] Watch some TED talks about things I'm interested in.
-- [ ] Try to tackle some [FreeCodeCamp](www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
+- [ ] Try to tackle some [FreeCodeCamp](http://www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
 - [ ] Enjoy my evenings
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Send Una a nice email in order to thank her for the inspiration!
 
 ### Things I'll Do This Month: November 2014
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
-- [ ] Complete Twitch API FCC Zipline. Follow my progress [here](www.codepen.io/julianaramburu).
-- [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](www.teamtreehouse.com/julianaramburu).
+- [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
+- [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](http://www.teamtreehouse.com/julianaramburu).
 - [ ] Keep learning JS and code as much as I can.
 - [ ] Write code in a regular daily basis
 
