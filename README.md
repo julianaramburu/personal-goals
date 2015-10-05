@@ -28,7 +28,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] Enjoy my evenings
 - [ ] Send Una a nice email in order to thank her for the inspiration!
 
-### Things I'll Do This Month: November 2014
+### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
 - [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
 - [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](http://www.teamtreehouse.com/julianaramburu).
