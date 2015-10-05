@@ -1,42 +1,40 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
+I was inspired by [Una Kravets](www.twitter.com/una) to open source my personal goals, as a good way to track down what I've been learning, what I wanna learn next and also for accesibility across computers I use! if you wanna know more about it you can read it [here](http://una.im/personal-goals-guide/)
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# Overarching Goals for 2015:
+1. Get my feet wet contributing to Open Source projects
+2. Start Blogging
+3. Use Git/Github more
+4. Get better at JS
+5. Learn about best practices at coding
+6. Enjoy life
+7. Read more
+8. Be kind
 
-# November 00, 2014
+# October 5, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Learn about JS Closures.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
+- [ ] Read articles about JS Closures.
+- [ ] code at least 1 hr per day.
+- [ ] Contribute helping others with their code.
+- [ ] Continue learning about JS
+- [ ] Watch some TED talks about things I'm interested in.
+- [ ] Try to tackle some [FreeCodeCamp](www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
+- [ ] Enjoy my evenings
 - [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
 ### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+- [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
+- [ ] Complete Twitch API FCC Zipline. Follow my progress [here](www.codepen.io/julianaramburu).
+- [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](www.teamtreehouse.com/julianaramburu).
+- [ ] Keep learning JS and code as much as I can.
+- [ ] Write code in a regular daily basis
+
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
-
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+- [ ] Get myself an Arduino board.
