@@ -1,5 +1,5 @@
 # Books to Read
 
-[ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-[ ] [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-[ ] [Las piedras de Chihaya](http://www.quaterni.es/producto/las-piedras-de-chihaya-el-hilo-del-karma/)
+- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [ ] [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [ ] [Las piedras de Chihaya](http://www.quaterni.es/producto/las-piedras-de-chihaya-el-hilo-del-karma/)
