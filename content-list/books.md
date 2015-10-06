@@ -1,5 +1,5 @@
 # Books to Read
 
 [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-[ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-[ ] That Book That I Have a Physical Copy of Counts, Too
+[ ] [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+[ ] [Las piedras de Chihaya](http://www.quaterni.es/producto/las-piedras-de-chihaya-el-hilo-del-karma/)
