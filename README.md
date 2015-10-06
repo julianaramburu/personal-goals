@@ -31,6 +31,8 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 ### Each week add-ons:
 
 - Watched [BAFrontEnd](https://www.youtube.com/watch?v=K3mRABRrGgw) last meetup video about test E2E, SASS Maps and SASS animation.
+- Read [JS Closures for Dummies](http://web.archive.org/web/20080209105120/http://blog.morrisjohns.com/javascript_closures_for_dummies)
+- Also read [JS Closures: Understand them once for all](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
 
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
