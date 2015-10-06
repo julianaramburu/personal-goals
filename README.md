@@ -28,6 +28,10 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] Enjoy my evenings
 - [ ] Send Una a nice email in order to thank her for the inspiration!
 
+### Each week add-ons:
+
+- Watched [BAFrontEnd](https://www.youtube.com/watch?v=K3mRABRrGgw) last meetup video about test E2E, SASS Maps and SASS animation.
+
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
 - [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
