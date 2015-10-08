@@ -36,6 +36,9 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - TED Talks Watched:
 - [x] [You don't need an app for that](https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that)
 
+##### Minor add-ons
+- [ ] Watched: The Martian.
+
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
 - [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
