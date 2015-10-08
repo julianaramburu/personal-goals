@@ -35,9 +35,10 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - Also read [JS Closures: Understand them once for all](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
 - TED Talks Watched:
 - [x] [You don't need an app for that](https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that)
+- [x] [3 Rules to spark learning](http://www.ted.com/talks/ramsey_musallam_3_rules_to_spark_learning)
 
 ##### Minor add-ons
-- [ ] Watched: The Martian.
+- [x] Watched: The Martian.
 
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
