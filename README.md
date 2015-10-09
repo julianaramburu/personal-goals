@@ -38,6 +38,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - TED Talks Watched:
 - [x] [You don't need an app for that](https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that)
 - [x] [3 Rules to spark learning](http://www.ted.com/talks/ramsey_musallam_3_rules_to_spark_learning)
+- [x] [Build a blog with Jekyll and Github Pages](http://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages)
 
 ##### Minor add-ons
 - [x] Watched: The Martian.
