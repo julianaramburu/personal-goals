@@ -35,10 +35,11 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - Also read [JS Closures: Understand them once for all](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
 - Watched [Una's talk: Photoshop is dead, editing images in CSS](https://www.youtube.com/watch?v=LY65F2e4B5w)
 - Watched [Buenos Aires al mundo](http://www.buenosaires.gob.ar/desarrolloeconomico/comercioexterior/buenos-aires-al-mundo)
+- [x] [Build a blog with Jekyll and Github Pages](http://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages)
 - TED Talks Watched:
 - [x] [You don't need an app for that](https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that)
 - [x] [3 Rules to spark learning](http://www.ted.com/talks/ramsey_musallam_3_rules_to_spark_learning)
-- [x] [Build a blog with Jekyll and Github Pages](http://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages)
+
 
 ##### Minor add-ons
 - [x] Watched: The Martian.
