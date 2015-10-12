@@ -14,36 +14,26 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 7. Read more
 8. Be kind
 
-# October 5, 2015
+# October 12, 2015
 
-### This Week's Goal: Learn about JS Closures.
+### This Week's Goal: Learn about Arrays and Objects.
 
 ## Things I'll Do This Week:
-- [ ] Read articles about JS Closures.
+
+- [ ] Read articles about JS Arrays and Objects.
 - [ ] code at least 1 hr per day.
+- [ ] Try to tackle some [FreeCodeCamp](http://www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
 - [ ] Contribute helping others with their code.
 - [ ] Continue learning about JS
-- [ ] Watch some TED talks about things I'm interested in.
-- [ ] Try to tackle some [FreeCodeCamp](http://www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
+- [ ] Fix my garden (it sucks atm).
 - [ ] Enjoy my evenings
-- [ ] Send Una a nice email in order to thank her for the inspiration!
+- [ ] Assist [Buenos Aires Dev Fest](http://devfest.gdg.com.ar/)
 
 ### Each week add-ons:
 
-- Watched [BAFrontEnd](https://www.youtube.com/watch?v=K3mRABRrGgw) last meetup video about test E2E, SASS Maps and SASS animation.
-- Read [JS Closures for Dummies](http://web.archive.org/web/20080209105120/http://blog.morrisjohns.com/javascript_closures_for_dummies)
-- Also read [JS Closures: Understand them once for all](http://www.variablenotfound.com/2012/10/closures-en-javascript-entiendelos-de.html)
-- Watched [Una's talk: Photoshop is dead, editing images in CSS](https://www.youtube.com/watch?v=LY65F2e4B5w)
-- Watched [Buenos Aires al mundo](http://www.buenosaires.gob.ar/desarrolloeconomico/comercioexterior/buenos-aires-al-mundo)
-- [x] [AMA With Gayle Laakmann McDowell](https://www.youtube.com/watch?v=1fqxMuPmGak)
-- [x] [Build a blog with Jekyll and Github Pages](http://teamtreehouse.com/library/build-a-blog-with-jekyll-and-github-pages)
-- TED Talks Watched:
-- [x] [You don't need an app for that](https://www.ted.com/talks/toby_shapshak_you_don_t_need_an_app_for_that)
-- [x] [3 Rules to spark learning](http://www.ted.com/talks/ramsey_musallam_3_rules_to_spark_learning)
-
 
 ##### Minor add-ons
-- [x] Watched: The Martian.
+
 
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
