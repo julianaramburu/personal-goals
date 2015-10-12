@@ -24,10 +24,11 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] code at least 1 hr per day.
 - [ ] Try to tackle some [FreeCodeCamp](http://www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
 - [ ] Contribute helping others with their code.
-- [ ] Continue learning about JS
+- [ ] Continue learning about JS.
 - [ ] Fix my garden (it sucks atm).
-- [ ] Enjoy my evenings
-- [ ] Assist [Buenos Aires Dev Fest](http://devfest.gdg.com.ar/)
+- [ ] Enjoy my evenings.
+- [ ] Learn Steven Universe Theme Song.
+- [ ] Assist [Buenos Aires Dev Fest](http://devfest.gdg.com.ar/).
 
 ### Each week add-ons:
 
@@ -40,7 +41,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
 - [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](http://www.teamtreehouse.com/julianaramburu).
 - [ ] Keep learning JS and code as much as I can.
-- [ ] Write code in a regular daily basis
+- [ ] Write code in a regular daily basis.
 
 
 ### Backlog: Side Projects :)
