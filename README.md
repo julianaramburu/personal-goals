@@ -32,7 +32,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 ### Each week add-ons:
 
 
-##### Minor add-ons
+##### Minor add-ons:
 
 
 ### Things I'll Do This Month: October 2015
@@ -45,3 +45,4 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 ### Backlog: Side Projects :)
 - [ ] Get myself an Arduino board.
+- [ ] Finish my blog set up.
