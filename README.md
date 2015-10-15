@@ -32,6 +32,8 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 ### Each week add-ons:
 
+- [x] Blind Guardian Concert!
+- [x] Watched [New to angular](https://egghead.io/articles/new-to-angularjs-start-learning-here?utm_content=bufferca925&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) videos from egghead
 
 ##### Minor add-ons:
 
