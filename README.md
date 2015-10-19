@@ -48,5 +48,5 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 
 ### Backlog: Side Projects :)
-- [ ] Get myself an Arduino board.
+- [x] Get myself an Arduino board.
 - [ ] Finish my blog set up.
