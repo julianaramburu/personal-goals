@@ -14,27 +14,22 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 7. Read more
 8. Be kind
 
-# October 12, 2015
+# October 19, 2015
 
-### This Week's Goal: Learn about Arrays and Objects.
+### This Week's Goal: Learn about Wordpress and e-commerce plug-ins.
 
 ## Things I'll Do This Week:
 
-- [ ] Read articles about JS Arrays and Objects.
-- [ ] code at least 1 hr per day.
-- [ ] Try to tackle some [FreeCodeCamp](http://www.freecodecamp.com/julianaramburu) Bonfires or Ziplines.
-- [ ] Contribute helping others with their code.
+- [ ] Read articles about how to setup Wordpress and e-commerce plug-ins.
+- [ ] Code at least 1 hr per day.
+- [ ] Start planning Espacio Eclipse's Site.
 - [ ] Continue learning about JS.
 - [ ] Fix my garden (it sucks atm).
+- [ ] Get Comic-Con tickets!
 - [ ] Enjoy my evenings.
 - [ ] Learn Steven Universe Theme Song.
-- [ ] Assist [Buenos Aires Dev Fest](http://devfest.gdg.com.ar/).
 
 ### Each week add-ons:
-
-- [x] Blind Guardian Concert!
-- [x] Watched [New to angular](https://egghead.io/articles/new-to-angularjs-start-learning-here?utm_content=bufferca925&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) videos from egghead
-- [x] Watched #HechoEnArgentina
 
 ##### Minor add-ons:
 
