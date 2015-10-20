@@ -25,14 +25,18 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] Start planning Espacio Eclipse's Site.
 - [ ] Continue learning about JS.
 - [ ] Fix my garden (it sucks atm).
-- [ ] Get Comic-Con tickets!
+- [x] Get Comic-Con tickets!
 - [ ] Enjoy my evenings.
 - [ ] Learn Steven Universe Theme Song.
 
 ### Each week add-ons:
 
+- [x] Watched [https://www.youtube.com/watch?v=EKhyxlLPCAw] - How to Make a Website Using WordPress - Easy Step by Step Tutorial for Beginners.
+- [x] Fixed and old notebook and installed Debian on it :D!!.
+
 ##### Minor add-ons:
 
+- [x] Learned how to install things on Debian.
 
 ### Things I'll Do This Month: October 2015
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
