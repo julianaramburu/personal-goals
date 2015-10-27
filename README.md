@@ -5,6 +5,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 
 # Overarching Goals for 2015:
+
 1. Get my feet wet contributing to Open Source projects
 2. Start Blogging
 3. Use Git/Github more
@@ -14,31 +15,29 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 7. Read more
 8. Be kind
 
-# October 19, 2015
+# October 26, 2015
 
 ### This Week's Goal: Learn about Wordpress and e-commerce plug-ins.
 
 ## Things I'll Do This Week:
 
+- [x] Start Full Stack Course at [@EscuelaDevRock](https://twitter.com/EscuelaDevRock)
 - [ ] Read articles about how to setup Wordpress and e-commerce plug-ins.
 - [ ] Code at least 1 hr per day.
-- [ ] Start planning Espacio Eclipse's Site.
+- [ ] Write a list about what the Wordpress site needs to have.
 - [ ] Continue learning about JS.
 - [ ] Fix my garden (it sucks atm).
-- [x] Get Comic-Con tickets!
 - [ ] Enjoy my evenings.
 - [ ] Learn Steven Universe Theme Song.
+- [ ] Get a present for my sister in law (she's awesome!).
 
 ### Each week add-ons:
 
-- [x] Watched [https://www.youtube.com/watch?v=EKhyxlLPCAw] - How to Make a Website Using WordPress - Easy Step by Step Tutorial for Beginners.
-- [x] Fixed and old notebook and installed Debian on it :D!!.
 
 ##### Minor add-ons:
 
-- [x] Learned how to install things on Debian.
-
 ### Things I'll Do This Month: October 2015
+
 - [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
 - [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
 - [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](http://www.teamtreehouse.com/julianaramburu).
@@ -47,5 +46,6 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 
 ### Backlog: Side Projects :)
+
 - [x] Get myself an Arduino board.
 - [ ] Finish my blog set up.
