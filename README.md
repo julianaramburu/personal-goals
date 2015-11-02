@@ -17,33 +17,30 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 # October 26, 2015
 
-### This Week's Goal: Learn about Wordpress and e-commerce plug-ins.
+### This Week's Goal: Start Building Wordpress Site + ecommerce.
 
 ## Things I'll Do This Week:
 
-- [x] Start Full Stack Course at [@EscuelaDevRock](https://twitter.com/EscuelaDevRock)
+- [ ] Continue with the learning of Wordpress @ [treehouse](https://teamtreehouse.com).
 - [ ] Read articles about how to setup Wordpress and e-commerce plug-ins.
 - [ ] Code at least 1 hr per day.
-- [ ] Write a list about what the Wordpress site needs to have.
-- [ ] Continue learning about JS.
-- [ ] Fix my garden (it sucks atm).
+- [ ] Exchange emails with my wordpress'site client.
+- [ ] Start reading a book and try to develop a 30 minutes per day reading habit.
+- [ ] Fix my garden (it sucks atm). PLEASE let this be the one!
 - [ ] Enjoy my evenings.
-- [ ] Learn Steven Universe Theme Song.
-- [ ] Get a present for my sister in law (she's awesome!).
+- [ ] Learn Steven Universe Theme Song. PLEASE let this be the one!
 
 ### Each week add-ons:
 
-
 ##### Minor add-ons:
 
-### Things I'll Do This Month: October 2015
+### Things I'll Do This Month: November 2015
 
-- [ ] Make Progress on Eloquent Javascript (currently learning Closures and Arrays better).
-- [ ] Complete Twitch API FCC Zipline. Follow my progress [here](http://www.codepen.io/julianaramburu).
-- [ ] Complete Treehouse Full-Stack JS course. Follow my progress [here](http://www.teamtreehouse.com/julianaramburu).
+- [ ] Finish the Full Stack Course @ [EscuelaDevRock](http://escueladevrock.com)
+- [ ] Finish the Wordpress + ecommerce site.
+- [ ] Make new contacts and friends.
 - [ ] Keep learning JS and code as much as I can.
 - [ ] Write code in a regular daily basis.
-
 
 ### Backlog: Side Projects :)
 
