@@ -32,7 +32,14 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 
 ### Each week add-ons:
 
+- [x] Succeded in adding a plug-in to integrate Mercadopago's Payment options to my Wordpress+e-commerce proyect!
+- [x] Got a lot of interesting books to read :D!
+- [x] Read a bunch of lifehacks that help me quite a lot.
+- [x] Started every morning with a meaningful breakfast and a 5 minute's meditation.
+
 ##### Minor add-ons:
+
+- [x] Bought a nice LG TV for our bedroom!
 
 ### Things I'll Do This Month: November 2015
 
