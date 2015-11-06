@@ -24,7 +24,7 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 - [ ] Continue with the learning of Wordpress @ [treehouse](https://teamtreehouse.com).
 - [ ] Read articles about how to setup Wordpress and e-commerce plug-ins.
 - [ ] Code at least 1 hr per day.
-- [ ] Exchange emails with my wordpress'site client.
+- [ ] Exchange emails with my wordpress's site client.
 - [ ] Start reading a book and try to develop a 30 minutes per day reading habit.
 - [ ] Fix my garden (it sucks atm). PLEASE let this be the one!
 - [ ] Enjoy my evenings.
