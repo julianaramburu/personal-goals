@@ -15,39 +15,31 @@ I was inspired by [Una Kravets](http://www.twitter.com/una) to open source my pe
 7. Read more
 8. Be kind
 
-# October 26, 2015
+# December 7, 2015
 
-### This Week's Goal: Start Building Wordpress Site + ecommerce.
+### This Week's Goal: Finish Wordpress + e-commerce site.
 
 ## Things I'll Do This Week:
 
-- [ ] Continue with the learning of Wordpress @ [treehouse](https://teamtreehouse.com).
-- [ ] Read articles about how to setup Wordpress and e-commerce plug-ins.
+- [ ] Continue with the learning of Angular.js @ [treehouse](https://teamtreehouse.com).
+- [ ] Learn how to set up a newsfeed.
 - [ ] Code at least 1 hr per day.
-- [ ] Exchange emails with my wordpress's site client.
-- [ ] Start reading a book and try to develop a 30 minutes per day reading habit.
-- [ ] Fix my garden (it sucks atm). PLEASE let this be the one!
+- [ ] Go to a party :D!
+- [ ] Continue reading "Mindsight: The New Science of Personal Transformation" by Dan Siegel.
 - [ ] Enjoy my evenings.
-- [ ] Learn Steven Universe Theme Song. PLEASE let this be the one!
+- [ ] Write on my journal.
 
 ### Each week add-ons:
 
-- [x] Succeded in adding a plug-in to integrate Mercadopago's Payment options to my Wordpress+e-commerce proyect!
-- [x] Got a lot of interesting books to read :D!
-- [x] Read a bunch of lifehacks that help me quite a lot.
-- [x] Started every morning with a meaningful breakfast and a 5 minute's meditation.
-
 ##### Minor add-ons:
 
-- [x] Bought a nice LG TV for our bedroom!
+### Things I'll Do This Month: December 2015
 
-### Things I'll Do This Month: November 2015
-
-- [ ] Finish the Full Stack Course @ [EscuelaDevRock](http://escueladevrock.com)
 - [ ] Finish the Wordpress + ecommerce site.
 - [ ] Make new contacts and friends.
 - [ ] Keep learning JS and code as much as I can.
 - [ ] Write code in a regular daily basis.
+- [ ] Start coding some angular.
 
 ### Backlog: Side Projects :)
 
